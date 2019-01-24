@@ -1,0 +1,2 @@
+# Evaluación de Maquina de Aspectos
+Este repo contiene la prueba realizada al sistema para poder evaluar la clasificación de los aspectos de acuerdo a una muestra seleccionada y etiquetada con un algoritmo léxico específicamente creado para esta muestra.
