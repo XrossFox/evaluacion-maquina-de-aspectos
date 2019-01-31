@@ -1,0 +1,7 @@
+.project
+.settings
+.pydevproject
+__pycache__
+datasets/pre-seleccion/*.json
+datasets/pre-seleccion/*/*.json
+datasets/seleccion/*.json
