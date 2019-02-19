@@ -1,0 +1,201 @@
+[{
+		"comentario": "@petervdl heartbleed happened because someone got the great idea that reusing memory was cheaper than allocating new (cleared) memory, you cannot reuse a string in java, just hope that nobody ever gets the idea to put your char[] into a reuse list for better performance.",
+		"aspectos": {
+			"AvailabilityAndScalability": [],
+			"Maintainability": [],
+			"Performance": [
+				"good"
+			],
+			"Reliability": [],
+			"Deployability": [],
+			"Securability": [],
+			"Interoperability": []
+		},
+		"clas_modelo": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_modelo_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb_no_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		}
+	},
+	{
+		"comentario": "it's referring to the fact that these annotations are good targets for aop, and while the other annotations do not define a pointcut yet, they might do that in the future. on the other hand @repository is already a target for a pointcut at present. that pointcut is used for exception translations, i.e. translating technology-specific exceptions to more generic spring-based ones, to avoid tight coupling.",
+		"aspectos": {
+			"AvailabilityAndScalability": [],
+			"Maintainability": [
+				"tight"
+			],
+			"Performance": [],
+			"Reliability": [],
+			"Deployability": [],
+			"Securability": [],
+			"Interoperability": []
+		},
+		"clas_modelo": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": -1,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_modelo_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": -1,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": -1,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb_no_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": -1,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		}
+	},
+	{
+		"comentario": "1) underlying data structure the first difference between arraylist and linkedlist comes with the fact that arraylist is backed by array while linkedlist is backed by linkedlist. this will lead to further differences in performance. 2) linkedlist implements deque another difference between arraylist and linkedlist is that apart from the list interface, linkedlist also implements deque interface, which provides first in first out operations for add() and poll() and several other deque functions. 3) adding elements in arraylist adding element in arraylist is o(1) operation if it doesn't trigger re-size of array, in which case it becomes o(log(n)), on the other hand, appending an element in linkedlist is o(1) operation, as it doesn't require any navigation. 4) removing an element from a position in order to remove an element from a particular index e.g. by calling remove(index), arraylist performs a copy operation which makes it close to o(n) while linkedlist needs to traverse to that point which also makes it o(n/2), as it can traverse from either direction based upon proximity. 5) iterating over arraylist or linkedlist iteration is the o(n) operation for both linkedlist and arraylist where n is a number of an element. 6) retrieving element from a position the get(index) operation is o(1) in arraylist while its o(n/2) in linkedlist, as it needs to traverse till that entry. though, in big o notation o(n/2) is just o(n) because we ignore constants there. 7) memory linkedlist uses a wrapper object, entry, which is a static nested class for storing data and two nodes next and previous while arraylist just stores data in array. so memory requirement seems less in the case of arraylist than linkedlist except for the case where array performs the re-size operation when it copies content from one array to another. if array is large enough it may take a lot of memory at that point and trigger garbage collection, which can slow response time. from all the above differences between arraylist vs linkedlist, it looks arraylist is the better choice than linkedlist in almost all cases, except when you do a frequent add() operation than remove(), or get(). it's easier to modify a linked list than arraylist, especially if you are adding or removing elements from start or end because linked list internally keeps references of those positions and they are accessible in o(1) time. in other words, you don't need to traverse through the linked list to reach the position where you want to add elements, in that case, addition becomes o(n) operation. for example, inserting or deleting an element in the middle of a linked list. in my opinion, use arraylist over linkedlist for most of the practical purpose in java.",
+		"aspectos": {
+			"AvailabilityAndScalability": [],
+			"Maintainability": [],
+			"Performance": [],
+			"Reliability": [],
+			"Deployability": [],
+			"Securability": [],
+			"Interoperability": [
+				"deque"
+			]
+		},
+		"clas_modelo": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": -1
+		},
+		"clas_modelo_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": 0
+		},
+		"clas_tb": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": 0
+		},
+		"clas_tb_no_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": null,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": -1
+		}
+	},
+	{
+		"comentario": "@mysticial perhaps, but i'm thinking pure latency here. we can worry about power consumption when my $200 laptop stops lagging and people start writing actually efficient code.",
+		"aspectos": {
+			"AvailabilityAndScalability": [],
+			"Maintainability": [],
+			"Performance": [
+				"pure"
+			],
+			"Reliability": [],
+			"Deployability": [],
+			"Securability": [],
+			"Interoperability": []
+		},
+		"clas_modelo": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_modelo_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		},
+		"clas_tb_no_neutro": {
+			"AvailabilityAndScalability": null,
+			"Maintainability": null,
+			"Performance": 1,
+			"Reliability": null,
+			"Deployability": null,
+			"Securability": null,
+			"Interoperability": null
+		}
+	}
+]
