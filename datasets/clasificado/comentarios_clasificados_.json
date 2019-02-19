@@ -103,7 +103,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -164,7 +164,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -271,7 +271,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -329,7 +329,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -389,7 +389,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -445,7 +445,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -506,8 +506,8 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
-			"Interoperability": -1
+			"Securability": 0,
+			"Interoperability": 0
 		}
 	},
 	{
@@ -563,7 +563,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -675,7 +675,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -731,7 +731,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -787,7 +787,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -839,7 +839,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -955,7 +955,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -1011,7 +1011,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -1065,7 +1065,7 @@
 			"Maintainability": null,
 			"Performance": null,
 			"Reliability": null,
-			"Deployability": -1,
+			"Deployability": 0,
 			"Securability": null,
 			"Interoperability": null
 		}
@@ -1117,7 +1117,7 @@
 			"Interoperability": null
 		},
 		"clas_tb_no_neutro": {
-			"AvailabilityAndScalability": -1,
+			"AvailabilityAndScalability": 0,
 			"Maintainability": null,
 			"Performance": null,
 			"Reliability": null,
@@ -1349,7 +1349,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -1405,7 +1405,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -1635,7 +1635,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -1687,7 +1687,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -1802,7 +1802,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": 1,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -1973,7 +1973,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -2033,7 +2033,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2202,7 +2202,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2258,7 +2258,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2366,7 +2366,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -2426,7 +2426,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2482,7 +2482,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2539,7 +2539,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2710,7 +2710,7 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
+			"Securability": 0,
 			"Interoperability": null
 		}
 	},
@@ -2765,11 +2765,11 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2826,7 +2826,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -2995,7 +2995,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -3048,7 +3048,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": 1,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -3108,7 +3108,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -3216,7 +3216,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -3272,7 +3272,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -3441,7 +3441,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -3497,7 +3497,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -3557,7 +3557,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -3893,7 +3893,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -3949,7 +3949,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4002,7 +4002,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": 1,
 			"Deployability": null,
 			"Securability": null,
@@ -4113,7 +4113,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -4230,7 +4230,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4286,7 +4286,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4342,7 +4342,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4398,7 +4398,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4512,7 +4512,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4572,7 +4572,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4624,7 +4624,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -4684,7 +4684,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4791,7 +4791,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -4846,7 +4846,7 @@
 			"Interoperability": null
 		},
 		"clas_tb_no_neutro": {
-			"AvailabilityAndScalability": -1,
+			"AvailabilityAndScalability": 0,
 			"Maintainability": null,
 			"Performance": null,
 			"Reliability": null,
@@ -4908,7 +4908,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -4959,7 +4959,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -5071,7 +5071,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -5132,7 +5132,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5184,7 +5184,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5244,7 +5244,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5296,7 +5296,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5356,7 +5356,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5414,7 +5414,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5466,7 +5466,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5580,7 +5580,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5640,7 +5640,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5811,7 +5811,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -5863,7 +5863,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5919,7 +5919,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -5975,7 +5975,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -6034,7 +6034,7 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
+			"Securability": 0,
 			"Interoperability": null
 		}
 	},
@@ -6087,7 +6087,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -6145,8 +6145,8 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
-			"Reliability": -1,
+			"Performance": 0,
+			"Reliability": 0,
 			"Deployability": null,
 			"Securability": null,
 			"Interoperability": null
@@ -6262,7 +6262,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -6320,7 +6320,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -6428,7 +6428,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -6489,7 +6489,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -6540,7 +6540,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -6653,7 +6653,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -6767,7 +6767,7 @@
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
 			"Performance": null,
-			"Reliability": -1,
+			"Reliability": 0,
 			"Deployability": null,
 			"Securability": null,
 			"Interoperability": null
@@ -6825,7 +6825,7 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
+			"Securability": 0,
 			"Interoperability": null
 		}
 	},
@@ -6878,7 +6878,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -6934,7 +6934,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -6994,7 +6994,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7047,7 +7047,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": 1,
 			"Deployability": null,
 			"Securability": null,
@@ -7107,7 +7107,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7158,7 +7158,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -7219,7 +7219,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7331,7 +7331,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7392,8 +7392,8 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
-			"Interoperability": -1
+			"Securability": 0,
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7449,7 +7449,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7505,7 +7505,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7559,7 +7559,7 @@
 			"Maintainability": null,
 			"Performance": null,
 			"Reliability": null,
-			"Deployability": -1,
+			"Deployability": 0,
 			"Securability": null,
 			"Interoperability": null
 		}
@@ -7726,7 +7726,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -7839,7 +7839,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -7900,7 +7900,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -7952,7 +7952,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8007,7 +8007,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -8064,7 +8064,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8124,7 +8124,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -8178,7 +8178,7 @@
 			"Maintainability": null,
 			"Performance": null,
 			"Reliability": null,
-			"Deployability": -1,
+			"Deployability": 0,
 			"Securability": null,
 			"Interoperability": null
 		}
@@ -8288,7 +8288,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8399,7 +8399,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -8460,7 +8460,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -8516,7 +8516,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -8568,7 +8568,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8680,7 +8680,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8737,7 +8737,7 @@
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
 			"Performance": null,
-			"Reliability": -1,
+			"Reliability": 0,
 			"Deployability": null,
 			"Securability": null,
 			"Interoperability": null
@@ -8792,7 +8792,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -8906,8 +8906,8 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
-			"Reliability": -1,
+			"Performance": 0,
+			"Reliability": 0,
 			"Deployability": null,
 			"Securability": null,
 			"Interoperability": null
@@ -9080,7 +9080,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9187,7 +9187,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -9299,7 +9299,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -9360,7 +9360,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9468,7 +9468,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -9529,7 +9529,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9586,7 +9586,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9639,7 +9639,7 @@
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
 			"Performance": null,
-			"Reliability": -1,
+			"Reliability": 0,
 			"Deployability": null,
 			"Securability": null,
 			"Interoperability": null
@@ -9754,7 +9754,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9810,7 +9810,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -9920,7 +9920,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -9976,7 +9976,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -10038,7 +10038,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -10150,7 +10150,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -10204,11 +10204,11 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -10319,7 +10319,7 @@
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
-			"Securability": -1,
+			"Securability": 0,
 			"Interoperability": null
 		}
 	},
@@ -10372,7 +10372,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -10428,7 +10428,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -10483,7 +10483,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -10595,7 +10595,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -10765,7 +10765,7 @@
 		},
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
-			"Maintainability": -1,
+			"Maintainability": 0,
 			"Performance": null,
 			"Reliability": null,
 			"Deployability": null,
@@ -10826,7 +10826,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -10882,7 +10882,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -10939,7 +10939,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -11052,7 +11052,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -11110,7 +11110,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -11166,7 +11166,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	},
 	{
@@ -11219,7 +11219,7 @@
 		"clas_tb_no_neutro": {
 			"AvailabilityAndScalability": null,
 			"Maintainability": null,
-			"Performance": -1,
+			"Performance": 0,
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
@@ -11279,7 +11279,7 @@
 			"Reliability": null,
 			"Deployability": null,
 			"Securability": null,
-			"Interoperability": -1
+			"Interoperability": 0
 		}
 	}
 ]

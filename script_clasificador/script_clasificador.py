@@ -166,7 +166,7 @@ def clasificar_json_con_tb_no_neutro(comentarios):
                 if polaridad > 0:
                     comentarios[n]["clas_tb_no_neutro"][aspecto] = 1
                 else:
-                    comentarios[n]["clas_tb_no_neutro"][aspecto] = 0
+                    comentarios[n]["clas_tb_no_neutro"][aspecto] = -1
                     
     return comentarios
 
