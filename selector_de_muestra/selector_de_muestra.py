@@ -37,7 +37,6 @@ def _aux_cargar_comentarios(directorio):
         """
         nom_tec = re.split(r"[\\/]", directorio)
         archivos = [join(directorio, archivo) for archivo in listdir(directorio)]
-        lista_res = (nom_tec[-1], list())
         
         # eliminar no-archivos y los que no tienen la extension apropiada
         for archivo in archivos:
@@ -47,17 +46,27 @@ def _aux_cargar_comentarios(directorio):
                 archivos.remove(archivo)
         
         # leer todos los .json
+        tmp_list = list()
+        # archivo por archivo
         for archivo in archivos:
+            # se abre el archivo actual
             with open(file=archivo, mode="r", encoding="utf-8") as fl:
                 com = json.load(fl)
-                for el in com:
-                    if not isinstance(el, str):
-                        raise ValueError("Uno de los elementos en '{}' no es un json array".format(archivo))
+                
+                # revisa que sea un json array
                 if not isinstance(com, list):
                     raise ValueError("Uno de los elementos en '{}' no es un json array".format(archivo))
-                lista_res[1].extend(com)
-          
-        return lista_res
+                
+                for el in com:
+                    # revisa que sean strings
+                    if not isinstance(el, str):
+                        raise ValueError("Uno de los elementos en '{}' no es un string".format(archivo))
+                    
+                    # agrega los comentarios a un set para evitar duplicados
+                    if el not in tmp_list:
+                        tmp_list.append(el)
+        
+        return (nom_tec[-1], tmp_list)
 
 import sys
 
